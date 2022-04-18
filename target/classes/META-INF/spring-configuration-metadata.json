@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "mer.zipcoder.passionproject.config.ApplicationProperties",
+      "sourceType": "mer.zipcoder.passionproject.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
